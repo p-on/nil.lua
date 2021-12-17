@@ -11,3 +11,6 @@ utility or informational based, our features will make using nil.lua worthwhile.
 
 # Planned Release
 nil.lua plans to release by the 25th of December but may release later, the latest you can expect is January the 1st.
+
+# Showcase
+![gui](https://user-images.githubusercontent.com/96277381/146493239-1ae8929e-d86f-4faa-94d5-6f042b2660bd.png)
