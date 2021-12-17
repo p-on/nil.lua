@@ -5,9 +5,9 @@ utility or informational based, our features will make using nil.lua worthwhile.
 
 # Developers
 * Zabi (r/report founder)
-* Agent (founder of many community projects)
-* [pigeon](<https://github.com/p-on>) (CMD-X founder)
-* vr (Ro-Lookup founder)
+* [Agent](<https://github.com/tonumber>) (founder of many community projects)
+* [pigeon](<https://github.com/p-on>) ([CMD-X](<https://github.com/CMD-X/CMD-X>) founder)
+* [vr](<https://github.com/downvert1>) (Ro-Lookup founder)
 
 # Planned Release
 nil.lua plans to release by the 25th of December but may release later, the latest you can expect is January the 1st.
