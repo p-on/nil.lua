@@ -6,5 +6,5 @@ utility or informational based, our features will make using nil.lua worthwhile.
 # Developers
 Zabi (r/report founder)
 Agent (founder of many community projects)
-pigeon (CMD-X founder) @p-on
+pigeon (CMD-X founder)[link](<https://github.com/p-on>)
 vr (Ro-Lookup founder)
