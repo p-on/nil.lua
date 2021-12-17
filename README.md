@@ -4,7 +4,8 @@ nil.lua does not battle or bother about competition, we are solely bothering abo
 utility or informational based, our features will make using nil.lua worthwhile. nil.lua is new on the market (25th December 2021) and is built and maintained by reputable people you can trust and others trust too; 
 
 # Developers
+*
 Zabi (r/report founder)
 Agent (founder of many community projects)
-pigeon (CMD-X founder)[link](<https://github.com/p-on>)
+[pigeon](<https://github.com/p-on>) (CMD-X founder)
 vr (Ro-Lookup founder)
